@@ -11,4 +11,5 @@
 | 22/Agosto | Rutas GET Spring I                         | https://ironhack.zoom.us/rec/share/ubJuoKO9ZAz_DLcBTYe8KC7Su4s2mhklbshbNCwaxweGOu-RRG8k9Oz92Tb5Q6ob.et05srDQaiPZuTVM |
 | 22/Agosto | Rutas GET Spring II                        | https://ironhack.zoom.us/rec/share/v5WzQsB9hu6pbk-vzs1EGmYrrhV07iPiMMkZIvElYv2G6S9QYgrwYY3M5pSVYoHp.lh3L1SDuoHh_QIeM |
 | 23/Agosto | PUT, PATCH, POST                           | https://ironhack.zoom.us/rec/share/UXxaZbEpmqx2tmFTGHtnQGBOPhPupVzlr2gPAUaZp6f7g14P4RNY48atKVFpLz1y._Bhk1DhZ1u_Orde8 |
+| 24/Agosto | Exception Handling                         | https://ironhack.zoom.us/rec/share/yi4yMg7bE5qqmYp0tWgJJMIInbqc-l6G1MP5Ow05kWVaHrSL06av0MYYTJpaz9-p.Bc5vxnIQ68QSpTZ5 |
 
